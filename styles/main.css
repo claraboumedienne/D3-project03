@@ -1,0 +1,15 @@
+.char1{
+  color: red;
+}
+
+
+h1{
+  box-shadow: 10px 10px 105px 53px
+  rgba(224,22, 224,1);
+}
+
+
+h1 span {
+margin: 1em;
+margin: 0,5em;
+}
