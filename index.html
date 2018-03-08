@@ -7,7 +7,11 @@
     <link rel="stylesheet" href="styles/colorbox.css">
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
     <script src="script/jquery.lettering.js"></script>
+<script src="script/jquery.min.js"></script>
 
+</script>
+
+</script>
 
        <script src="script/jquery.colorbox-min.js"></script>
 
@@ -20,10 +24,14 @@
 <h1 class="fancy_title">This is about lettering</h1>
 
 
-<a class='gallery' href='image/image1.jpg'>Photo_1</a>
-<a class='gallery' href='image/image2.jpg'>Photo_2</a>
-<a class='gallery' href='image/image3.jpg'>Photo_3</a>
+<a class='gallery' href='image/image1.jpg'>
+<img src="image/image1.jpg" alt="mufasa"></a>
 
+
+<a class='gallery' href='image/image2.jpg'>
+  <img src="image/image2.jpg" alt="lion"></a>
+<a class='gallery' href='image/image3.jpg'>
+<img src="image/image3.jpg" alt="guepard"></a>
 
 <script>
   $(document).ready(function() {
@@ -32,7 +40,7 @@
     </script>
 
     <script>
-  jQuery('a.gallery').colorbox();
+    $('a.gallery').colorbox({rel:'gal'});
 </script>
 
   </body>
