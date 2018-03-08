@@ -1,15 +1,140 @@
+body{
+background-color: #E1EDFF;
+}
+
 .char1{
   color: red;
+  font-size: 120px;
+ font-family: 'Rammetto One', cursive;
+}
+
+.char2{
+color : #14AFA3;
+font-size: 100px;
+}
+
+.char3 {
+color : #FF7712;
+font-family: 'Oswald', sans-serif;
+font-size: 130px;
+}
+
+.char4 {
+  color: #1D06FF;
+  font-size: 110px;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char5 {
+  color: #ffff;
+  font-size: 120px;
+}
+
+.char6{
+color: #65E0B3;
+font-size: 80px;
+font-family: 'Oswald', sans-serif;
 }
 
 
-h1{
-  box-shadow: 10px 10px 105px 53px
-  rgba(224,22, 224,1);
+.char7 {
+  color: #FF0606;
+  font-size: 120px;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char8 {
+  color: #ffff;
+  font-size: 120px;
+}
+
+.char9 {
+  color: red;
+  font-size: 120px;
+ font-family: 'Rammetto One', cursive;
+}
+
+.char10 {
+  color : #14AFA3;
+  font-size: 100px;
 }
 
 
-h1 span {
-margin: 1em;
-margin: 0,5em;
+.char11 {
+color : #FF7712;
+font-family: 'Oswald', sans-serif;
+font-size: 130px;
+}
+
+.char12 {
+  color: #1D06FF;
+  font-size: 110px;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char13{
+color: #65E0B3;
+font-size: 80px;
+font-family: 'Oswald', sans-serif;
+}
+
+.char14 {
+  color: #ffff;
+  font-size: 120px;
+}
+
+.char15{
+  color: red;
+  font-size: 120px;
+ font-family: 'Rammetto One', cursive;
+}
+
+.char16{
+color : #14AFA3;
+font-size: 100px;
+}
+
+.char17 {
+color : #FF7712;
+font-family: 'Oswald', sans-serif;
+font-size: 130px;
+}
+
+.char18 {
+  color: #1D06FF;
+  font-size: 110px;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char19 {
+  color: #red;
+  font-size: 120px;
+}
+
+.char2O{
+  color: #1D06FF;
+  font-size: 110px;
+  font-family: 'Rammetto One', cursive;
+  }
+
+
+.char21 {
+  color: #FF0606;
+  font-size: 120px;
+  font-family: 'Rammetto One', cursive;
+}
+
+.char22 {
+  color : #14AFA3;
+  font-size: 120px;
+}
+
+.char23 {
+  color: #65E0B3;
+  font-size: 120px;
+ font-family: 'Rammetto One', cursive;
+}
+
+h1 {
+  text-align: center;
 }
