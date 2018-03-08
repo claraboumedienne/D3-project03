@@ -112,10 +112,10 @@ font-size: 130px;
 }
 
 .char2O{
-  color: #1D06FF;
-  font-size: 110px;
-  font-family: 'Rammetto One', cursive;
-  }
+color: #65E0B3;
+font-size:130px;
+font-family: 'Oswald', sans-serif;
+}
 
 
 .char21 {
@@ -133,6 +133,17 @@ font-size: 130px;
   color: #65E0B3;
   font-size: 120px;
  font-family: 'Rammetto One', cursive;
+}
+
+.gallery {
+justify-content: center;
+align-items: center;
+
+}
+img{
+  align-content: center;
+  margin-left: 45px;
+
 }
 
 h1 {
